@@ -1,0 +1,17 @@
+# ninja log v5
+0	629	7248053139469105	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+632	762	7248053140759104	condicionales.exe	4e81ef8574c2f6fd
+6	763	7248056316954633	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+763	923	7248056318524439	condicionales.exe	4e81ef8574c2f6fd
+5	1081	7248727249627024	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+1082	1473	7248727253506988	condicionales.exe	4e81ef8574c2f6fd
+8	616	7248727404517020	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+617	731	7248727405626978	condicionales.exe	4e81ef8574c2f6fd
+5	658	7248728305279833	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+658	792	7248728306589853	condicionales.exe	4e81ef8574c2f6fd
+5	717	7248729113656863	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+717	942	7248729115766950	condicionales.exe	4e81ef8574c2f6fd
+5	615	7248729235226879	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+616	745	7248729236476773	condicionales.exe	4e81ef8574c2f6fd
+6	687	7248732022732258	CMakeFiles/condicionales.dir/main.cpp.obj	6a5be7fa13704cb9
+688	833	7248732024162255	condicionales.exe	4e81ef8574c2f6fd

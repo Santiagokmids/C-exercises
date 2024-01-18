@@ -1,0 +1,3 @@
+D:/source/repos/c++/first-exercise/cmake-build-debug/CMakeFiles/first_exercise.dir
+D:/source/repos/c++/first-exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/source/repos/c++/first-exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

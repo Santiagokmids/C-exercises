@@ -1,0 +1,23 @@
+# ninja log v5
+0	674	7248021441132063	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+677	887	7248021443242025	first_exercise.exe	d29c2cc52e4dddf2
+7	690	7248021792268405	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+691	844	7248021793778414	first_exercise.exe	d29c2cc52e4dddf2
+6	658	7248023266478409	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+658	801	7248023267838391	first_exercise.exe	d29c2cc52e4dddf2
+6	638	7248023537568365	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+639	790	7248023539048349	first_exercise.exe	d29c2cc52e4dddf2
+6	694	7248023695496172	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+695	822	7248023696756129	first_exercise.exe	d29c2cc52e4dddf2
+6	666	7248023972332756	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+666	811	7248023973692820	first_exercise.exe	d29c2cc52e4dddf2
+5	702	7248024114105723	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+702	830	7248024115355723	first_exercise.exe	d29c2cc52e4dddf2
+5	765	7248024921333054	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+765	878	7248024922413034	first_exercise.exe	d29c2cc52e4dddf2
+7	636	7248025468957080	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+636	776	7248025470297097	first_exercise.exe	d29c2cc52e4dddf2
+5	664	7248025738075559	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+665	786	7248025739255566	first_exercise.exe	d29c2cc52e4dddf2
+6	725	7248026875608878	CMakeFiles/first_exercise.dir/main.cpp.obj	4f76b605cef38e79
+725	879	7248026877118895	first_exercise.exe	d29c2cc52e4dddf2
