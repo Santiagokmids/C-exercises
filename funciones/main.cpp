@@ -2,9 +2,15 @@
 
 using namespace std;
 
+struct Person{
+    string name;
+    int age;
+};
+
 //Prototipo de función
 int findMax(int x, int y); //Obligatorio para que corra
 void changeValues(int&, int&); //Paso de parámetros por referencia
+void showPersonDates(Person);
 
 int main() {
     int numX, numY;
@@ -20,6 +26,10 @@ int main() {
 
     cout << "El valor nuevo del primer numero es " << numX << endl;
     cout << "El valor nuevo del segundo numero es " << numY << endl;
+
+    Person p1 = {"Andres", 20};
+
+    showPersonDates(p1);
 
     return 0;
 }
@@ -45,4 +55,8 @@ void changeValues(int& num1, int& num2){ //Con el "&" se hace referencia a su re
 
     cout << "Digite dos numeros nuevos " << endl;
     cin >> num1 >> num2; //Así puedo cambiar dos numeros de forma fácil
+}
+
+void showPersonDates(Person person){
+    cout << "La persona se llama " << person.name << " y tiene " << person.age << " anios." << endl ;
 }
